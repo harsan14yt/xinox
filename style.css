@@ -1873,3 +1873,217 @@ html, body {
 
     margin: 0 !important;
 }
+
+/* REVIEW BUTTON - FIXED RESPONSIVE POSITION */
+
+.review-container {
+    width: 100%;
+    padding: 0 16px;
+    margin-top: 14px;
+    flex-shrink: 0;
+}
+
+.review-container button {
+    width: 100%;
+    height: 58px;
+    border-radius: 30px;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+
+    .review-container {
+        width: 100%;
+        padding: 0 16px;
+        margin-top: 12px;
+    }
+
+    .review-container button {
+        height: 58px;
+        border-radius: 30px;
+        font-size: 20px;
+    }
+}
+
+
+#review-container {
+  width: 100%;
+  max-width: 384px;
+  margin: 20px auto 0;
+  padding: 0 16px;
+  position: relative;
+  box-sizing: border-box;
+}
+
+#review-container button {
+  width: 100%;
+  height: 52px;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  #review-container {
+    margin-top: 20px;
+    padding: 0 4px;
+  }
+
+  #review-container button {
+    height: 58px;
+    font-size: 20px;
+  }
+}
+
+
+/* ===== FINAL MOBILE AMOUNT PAGE FIX ===== */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.amount-page {
+  width: 100%;
+  max-width: 500px;
+  height: 100dvh;
+  min-height: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+}
+
+/* Header */
+.amount-header {
+  height: 70px;
+  flex-shrink: 0;
+}
+
+/* Recipient */
+.recipient-section {
+  flex-shrink: 0;
+}
+
+/* ===== AMOUNT: REDUCE BIG GAP ABOVE NUMBER ===== */
+
+.amount-display {
+  margin-top: 25px !important;
+  margin-bottom: 10px !important;
+}
+
+.amount-number {
+  line-height: 1 !important;
+}
+
+/* ===== TOKEN BALANCE ===== */
+
+.token-balance-row {
+  margin-top: 15px !important;
+  margin-bottom: 10px !important;
+}
+
+/* ===== KEYPAD ===== */
+
+.numeric-keypad {
+  width: 100%;
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  column-gap: 10px;
+  row-gap: 2px;
+  margin-top: 10px !important;
+  margin-bottom: 0 !important;
+  flex-shrink: 1;
+}
+
+.numeric-keypad button {
+  width: 100%;
+  min-width: 0;
+  height: 58px;
+  padding: 0;
+  margin: 0;
+}
+
+/* ===== REVIEW BUTTON ===== */
+
+#review-container {
+  position: absolute !important;
+  left: 16px !important;
+  right: 16px !important;
+  bottom: 8px !important;
+  width: auto !important;
+  margin: 0 !important;
+  z-index: 20;
+}
+
+#review-container button {
+  width: 100%;
+  height: 52px;
+}
+
+/* ===== SMALL MOBILE SCREENS ===== */
+
+@media (max-height: 700px) {
+
+  .amount-header {
+    height: 60px;
+  }
+
+  .amount-display {
+    margin-top: 12px !important;
+  }
+
+  .amount-number {
+    font-size: 58px !important;
+  }
+
+  .amount-usd {
+    margin-top: 2px !important;
+  }
+
+  .token-balance-row {
+    margin-top: 8px !important;
+  }
+
+  .numeric-keypad {
+    margin-top: 4px !important;
+    row-gap: 0 !important;
+  }
+
+  .numeric-keypad button {
+    height: 50px;
+  }
+
+  #review-container {
+    bottom: 5px !important;
+  }
+
+  #review-container button {
+    height: 48px;
+  }
+}
+
+/* ===== TALL MOBILE SCREENS ===== */
+
+@media (min-height: 800px) {
+
+  .amount-display {
+    margin-top: 20px !important;
+  }
+
+  .numeric-keypad {
+    row-gap: 4px;
+  }
+
+  .numeric-keypad button {
+    height: 62px;
+  }
+}
+
