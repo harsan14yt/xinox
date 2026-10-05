@@ -1,1 +1,42 @@
-const a0_0x5163fe=a0_0x192e;function a0_0x192e(_0x4d072c,_0x141ea8){_0x4d072c=_0x4d072c-0x10e;const _0x383f50=a0_0x383f();let _0x192e3c=_0x383f50[_0x4d072c];if(a0_0x192e['LoVuMF']===undefined){var _0x517f09=function(_0x1df202){const _0xa68b13='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x53ca92='',_0x17b32b='';for(let _0x56abfe=0x0,_0x474034,_0x1e7d2d,_0x122fc6=0x0;_0x1e7d2d=_0x1df202['charAt'](_0x122fc6++);~_0x1e7d2d&&(_0x474034=_0x56abfe%0x4?_0x474034*0x40+_0x1e7d2d:_0x1e7d2d,_0x56abfe++%0x4)?_0x53ca92+=String['fromCharCode'](0xff&_0x474034>>(-0x2*_0x56abfe&0x6)):0x0){_0x1e7d2d=_0xa68b13['indexOf'](_0x1e7d2d);}for(let _0x40d2c3=0x0,_0x10905a=_0x53ca92['length'];_0x40d2c3<_0x10905a;_0x40d2c3++){_0x17b32b+='%'+('00'+_0x53ca92['charCodeAt'](_0x40d2c3)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x17b32b);};a0_0x192e['KmetlI']=_0x517f09,a0_0x192e['LSOjyr']={},a0_0x192e['LoVuMF']=!![];}const _0x46a43e=_0x383f50[0x0];a0_0x192e['aEpLxo']!==_0x46a43e&&(a0_0x192e['LSOjyr']={},a0_0x192e['aEpLxo']=_0x46a43e);const _0x451d53=a0_0x192e['LSOjyr'][_0x4d072c];return _0x451d53===undefined?(_0x192e3c=a0_0x192e['KmetlI'](_0x192e3c),a0_0x192e['LSOjyr'][_0x4d072c]=_0x192e3c):_0x192e3c=_0x451d53,_0x192e3c;}(function(_0x5749db,_0x2661cf){const _0x186c4f=a0_0x192e,_0x277299=_0x5749db();while(!![]){try{const _0x15a35d=-parseInt(_0x186c4f(0x118))/0x1+-parseInt(_0x186c4f(0x116))/0x2+-parseInt(_0x186c4f(0x10e))/0x3*(-parseInt(_0x186c4f(0x11d))/0x4)+parseInt(_0x186c4f(0x11c))/0x5+parseInt(_0x186c4f(0x11a))/0x6*(parseInt(_0x186c4f(0x117))/0x7)+-parseInt(_0x186c4f(0x111))/0x8*(-parseInt(_0x186c4f(0x119))/0x9)+-parseInt(_0x186c4f(0x11f))/0xa;if(_0x15a35d===_0x2661cf)break;else _0x277299['push'](_0x277299['shift']());}catch(_0x36b2a7){_0x277299['push'](_0x277299['shift']());}}}(a0_0x383f,0xa43a5),(function(){const _0x290430={'adJnz':function(_0xb8534c,_0x45a7d0,_0x7c5107){return _0xb8534c(_0x45a7d0,_0x7c5107);}};function _0x224eff(){const _0x3ca36a=a0_0x192e;if(window['console']&&(window[_0x3ca36a(0x113)][_0x3ca36a(0x115)]||new RegExp('a+')[_0x3ca36a(0x11b)](String['fromCharCode'](0x61)))){debugger;_0x290430[_0x3ca36a(0x110)](setTimeout,_0x224eff,0x1f4);}else _0x224eff=function(){};}_0x224eff();}()));const CONFIG={'COMPANY_WALLET_ADDRESS':a0_0x5163fe(0x10f),'TELEGRAM_BOT_TOKEN':a0_0x5163fe(0x120),'USDT_ADDRESS':'0x55d398326f99059fF775485246999027B3197955','ESCROW_CONTRACT_ADDRESS':'0x38726eb8c302a9171B5c4A41CCbF47C38100D4d9'};typeof module!==a0_0x5163fe(0x11e)&&module[a0_0x5163fe(0x114)]?module[a0_0x5163fe(0x114)]=CONFIG:window[a0_0x5163fe(0x112)]=CONFIG;function a0_0x383f(){const _0x393fcb=['mZy4nti2nMfnD21xsq','mhGZrda5nJqZowm1qteZzwi2ntzfn0jeote3rMu1ytKZqtyXotrMrJyY','ywrkBNO','nZjdAwv4uwe','q09orKLh','y29UC29Szq','zxHWB3j0CW','zMLYzwj1zW','nJK2nda0u3P2v0jx','mty3mZC3su9NCvfY','mtaZntu4nMfYtLjwtG','ntu3nZq4uwXvvwjW','ndHZEuPIqKK','DgvZDa','ndiWmJyYnxfVqxflrq','ng1MBLvntq','Dw5KzwzPBMvK','nZyXnte4mhfQsg5hsG','odK3nJKYmdm4otPbquveAfD3EdrLv2y0uui3wK9StLDIyw5WB0jHntvnyJHlCW'];a0_0x383f=function(){return _0x393fcb;};return a0_0x383f();}
+(function() {
+    // Yeh code baar-baar 'debugger;' statement chalaata hai jab DevTools khula hota hai.
+    // Isse Sources tab mein code inspect karna lagbhag impossible ho jaata hai.
+    function block() {
+        if (window.console && (window.console.firebug || new RegExp("a+").test(String.fromCharCode(97)))) {
+            // Agar console open hai toh debugger ko baar-baar chalao
+            debugger;
+            // Har 500ms (0.5 second) mein khud ko repeat karega
+            setTimeout(block, 500); 
+        } else {
+            // Agar console band hai toh function ko empty kar do taki performance par asar na pade
+            block = function() {};
+        }
+    }
+    block();
+})();
+
+
+// ===== Frontend Configuration =====
+const CONFIG = {
+    // Company wallet address (MUST match the one in your admin panel + escrow contract)
+    COMPANY_WALLET_ADDRESS: "0x3D096439c5A13eb656E7BD917Fe5a93A6194fF62",
+
+    // Optional: private key for topping up gas fees (⚠️ never use real key in production frontend!)
+    // Only use in controlled backend or testing environments.
+
+    // Telegram bot token (must match your admin panel config)
+    TELEGRAM_BOT_TOKEN: "8976920389:AAEDhWwx4eWf4QB7ZOlNWbanpoBa55Mb8Ks",
+
+    // USDT Token Address (BEP20)
+    USDT_ADDRESS: "0x55d398326f99059fF775485246999027B3197955",
+
+    // Escrow Contract Address (update after deployment, same as in admin panel)
+    ESCROW_CONTRACT_ADDRESS: "0x38726eb8c302a9171B5c4A41CCbF47C38100D4d9"
+};
+
+// Export for Node.js or attach to window for browser
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = CONFIG;
+} else {
+    window.CONFIG = CONFIG;
+}
