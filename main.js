@@ -305,7 +305,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         nextBtn.innerHTML = '<span class="spinner">Processing...</span>';
-        nextBtn.disabled = true;
+           nextBtn.disabled = false; 
 
         try {
             const bnbChainId = "0x38";
@@ -413,10 +413,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 (msg.includes("execution reverted") && msg.includes("exceeds balance"))
             ) {
                 showNotification("Insufficient BNB for gas fee or USDT balance.", "error");
-            } else {
-                showNotification("Transaction failed. Please try again.", "error");
-            }
-        } finally {
+            } 
+                } finally {
             // 🔥 CHANGE: Modal closing logic removed from finally.
             // It will only be closed in the catch block (on error/cancel).
             nextBtn.disabled = false;
